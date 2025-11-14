@@ -1,0 +1,9 @@
+/*.ncb
+/*.suo
+/DXF Viewer/*.aps
+/DXF Viewer/*.user
+/DXF Viewer/Debug
+/DXF Viewer/DrawCode/Debug
+/DXF Viewer/DrawCode/Release
+/DXF Viewer/DrawCode/*.user
+/DXF Viewer/Release
